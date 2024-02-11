@@ -49,13 +49,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - Amritesh Raj
 
-Project Link: 
+Project Link: https://github.com/AmriteshRaj123/Amazon-Clone-.git
 
 ## Acknowledgements
 
 - Font Awesome
 - GitHub for hosting the project
 
----
-
-Replace placeholders such as `your-username`, `your_twitter`, `email@example.com`, and add any additional sections or information as needed. This README provides a basic structure that you can expand upon.
