@@ -51,7 +51,7 @@ Your Name - Amritesh Raj
 
 Project Link: https://github.com/AmriteshRaj123/Amazon-Clone-.git
 
-## Acknowledgements
+## Acknowledgement
 
 - Font Awesome
 - GitHub for hosting the project
