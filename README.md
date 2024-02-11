@@ -54,5 +54,5 @@ Project Link: https://github.com/AmriteshRaj123/Amazon-Clone-.git
 ## Acknowledgement
 
 - Font Awesome
-- GitHub for hosting the project
+- GitHub for hosting the project.
 
